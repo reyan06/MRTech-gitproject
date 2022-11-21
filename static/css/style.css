@@ -217,7 +217,7 @@ button {
 }
 
 .light_silver {
-     background: #f9f9f9;
+     background: #680ad3;
 }
 
 .theme_bg {
@@ -244,7 +244,7 @@ button {
 .loader_bg {
      position: fixed;
      z-index: 9999999;
-     background: #fff;
+     background: rgb(40, 10, 212);
      width: 100%;
      height: 100%;
 }
@@ -320,7 +320,7 @@ ul.btn li:last-child {
 
 .navigation.navbar-dark .navbar-nav .nav-link {
      padding: 0 25px;
-     color: #fff;
+     color: rgba(0, 0, 0, 0.815);
      font-size: 17px;
      line-height: 20px;
      font-weight: 500;
@@ -373,7 +373,7 @@ ul.btn li:last-child {
      font-size: 40px;
      font-weight: bold;
      text-transform: uppercase;
-     color: #fff;
+     color: rgb(13, 221, 13);
      line-height: 40px;
 }
 

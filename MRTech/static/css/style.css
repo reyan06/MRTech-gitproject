@@ -894,7 +894,7 @@ ul.social_icon li {
 }
 
 ul.social_icon li a {
-     background: #fff;
+     background: rgb(15, 12, 240);
      width: 40px;
      height: 40px;
      display: flex;
@@ -1020,7 +1020,7 @@ ul.social_icon li a:hover {
 /** about **/
 
 .about {
-     background-color: #fff;
+     background-color: #4f4aa6;
      padding: 90px 0;
 }
 
@@ -1052,7 +1052,7 @@ ul.social_icon li a:hover {
 /** laptop **/
 
 .laptop1 {
-     background-color: #f6f6f6;
+     background-color: #4f4aa6;
      padding: 90px 0;
 }
 
@@ -1063,20 +1063,22 @@ ul.social_icon li a:hover {
 .laptop1 .titlepage h2 {
      max-width: inherit;
      border: inherit;
-     color: #000;
+     color: rgb(252, 252, 252);
 }
 
 .laptop1 .titlepage p {
      padding: 30px 0;
-     color: #000;
+     color: rgb(252, 252, 252);
 }
 
 .laptop1_img figure {
      margin: 0;
+     background-color: #4f4aa6;
 }
 
 .laptop1_img figure img {
      width: 100%;
+     background-color: #4f4aa6;
 }
 
 
